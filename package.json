@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@langchain/anthropic": "^0.3.26",
+    "@langchain/core": "^0.3.69",
+    "@langchain/openai": "^0.6.7",
+    "dotenv": "^17.2.1",
+    "zod": "^3.25.76"
+  }
+}
